@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap');
+
+:root {
+  --f-main: "Bai Jamjuree", sans-serif;
+}
+
+body {
+  font-family: var(--f-main);
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #edf4ff;
+  text-align: center;
+}
+
+#cerita {
+  background-color: #edf4ff;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+#dosen {
+  background-color: #edf4ff;
+}
+.bukutamu {
+  padding-top: 6rem;
+  background-color: #edf4ff;
+}
